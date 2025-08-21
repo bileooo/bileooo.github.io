@@ -1,4 +1,9 @@
 baseURL = 'https://bileooo.github.io/'
 languageCode = 'zh-CN'
-title = 'My New Hugo Site'
+title = 'my blog'  # 修改网站标题
 theme = "ananke"
+
+[params]
+  author = "bileo"
+  description = "这是我的个人博客，分享技术和生活"
+  github = "https://github.com/bileooo"
